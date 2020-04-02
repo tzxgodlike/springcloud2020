@@ -1,0 +1,4 @@
+com\tzx\springcloud\service\PaymentFeignService.class
+com\tzx\springcloud\config\FeignConfig.class
+com\tzx\springcloud\OrderFeignMain80.class
+com\tzx\springcloud\controller\OrderFeignController.class

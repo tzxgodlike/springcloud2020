@@ -1,0 +1,4 @@
+C:\Users\Lenovo\IdeaProjects\SpringCloudLearning\cloud2020\cloud-consumer-feign-hystrix-order80\src\main\java\com\tzx\springcloud\service\PaymentHystrixService.java
+C:\Users\Lenovo\IdeaProjects\SpringCloudLearning\cloud2020\cloud-consumer-feign-hystrix-order80\src\main\java\com\tzx\springcloud\OrderHystrixMain80.java
+C:\Users\Lenovo\IdeaProjects\SpringCloudLearning\cloud2020\cloud-consumer-feign-hystrix-order80\src\main\java\com\tzx\springcloud\service\PaymentFallbackService.java
+C:\Users\Lenovo\IdeaProjects\SpringCloudLearning\cloud2020\cloud-consumer-feign-hystrix-order80\src\main\java\com\tzx\springcloud\controller\OrderHystrixController.java
